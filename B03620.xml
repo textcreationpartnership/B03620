@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>O-Brazile or The inchanted island being a perfect relation of the late discovery, and wonderful dis-inchantment of an island on the north of Ireland: with an account of the riches and commodities thereof. / Communicated by a letter from London-derry, to a friend in London.</title>
+            <author>Head, Richard, 1637?-1686?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03620</idno>
+            <idno type="STC">Wing H1270</idno>
+            <idno type="STC">ESTC R223313</idno>
+            <idno type="EEBO-CITATION">52614695</idno>
+            <idno type="OCLC">ocm 52614695</idno>
+            <idno type="VID">175903</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175903)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2754:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>O-Brazile or The inchanted island being a perfect relation of the late discovery, and wonderful dis-inchantment of an island on the north of Ireland: with an account of the riches and commodities thereof. / Communicated by a letter from London-derry, to a friend in London.</title>
+                  <author>Head, Richard, 1637?-1686?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed [s.n.],</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>in the year 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: William Hamilton.</note>
+                  <note>With caption title: B-Orazil:e [sic].</note>
+                  <note>Imperfect: stained, with some loss of text.</note>
+                  <note>Also published with title: Western Wonder, or, O-Brazile.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Voyages, Imaginary --  Early works to 1800.</term>
+               <term>Geographical myths --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175903:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 117 -->
+            <p>O-BRAZILE OR THE INCHANTED ISLAND BEING A perfect Relation of the late Diſcovery, AND <hi>Wonderful Diſ-Inchantment</hi> OF AN ISLAND On the North of IRELAND: With an Account of the Riches and Commodities thereof.</p>
+            <p>Communicated by a Letter from <hi>LONDON-DERRY,</hi> to a Friend in <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>EDINBURGH,</hi> Re-printed in the Year, 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175903:2"/>
+            <!-- PDF PAGE 118 -->
+            <pb facs="tcp:175903:2"/>
+            <!-- PDF PAGE 118 -->
+            <head>B-ORAZIL:E OR, <hi>The Inchanted Iſland.</hi> BEING A PERFECT RELATION OF THE Late Diſcovery, and Wonderful Diſ-inchant<g ref="char:EOLhyphen"/>ment of an Iſland on the North of <hi>Ireland,</hi> &amp;c.</head>
+            <opener>
+               <salute>Honoured Couſin,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have received yours of the 12th of <hi>February,</hi> and the Printed Relation of the certain Death of the Arch-Pirate Captain <hi>Cuſacke;</hi> of whoſe Death, all our Merchants here-in <hi>Ireland,</hi> are very glad; eſpe<g ref="char:EOLhyphen"/>cially my Couſin <hi>Matthew Calhoow,</hi> from whom, <hi>Cuſacke</hi> took the laſt Veſſel; which, it ſeems, brought him to his deſerved fatal end. And in requital of your News concerning <hi>Cu<g ref="char:EOLhyphen"/>ſacke,</hi> I ſhall acquaint you with a Story no leſs true; but I believe much more ſtrange and wonderful, concerning the Diſcovery of that long-talk't-of Iſland <hi>O-Brazile,</hi> which (I believe) you have heard of.</p>
+            <p>I know there are, in the World, many Stories, and Romances, concerning Inchanted Iſlands, Caſtles and Towers, <hi>&amp;c.</hi> And that our King's Dominions may in nothing be inferiour to any other Nation, we have had an Inchanted Iſland, upon the North of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> long talkt of. And, indeed, when I went firſt into the Kingdom of <hi>Ireland</hi> to live, and heard thoſe many Stories, which were com<g ref="char:EOLhyphen"/>mon in every Mans mouth, concerning the Iſland of <hi>O-Brazile,</hi> (as they call'd it) which multitudes reported often to be ſeen upon the Coaſt of <hi>Ulſter</hi> in that Kingdom; yet I lookt upon it as a per<g ref="char:EOLhyphen"/>fect Romance, and many times laught the Reporiters to ſcorn: Though many Sober, and Religious perſons, would conſtantly af<g ref="char:EOLhyphen"/>firm, That in bright days, (eſpecially in Summer-time) they could perfectly ſee a very large abſolute Iſland; but, after long looking at it, it would diſappear. And ſometimes one Friend and Neighbor, 
+<pb n="4" facs="tcp:175903:3"/>
+               <!-- PDF PAGE 119 --> would one call another to behold it, until there would be a conſide<g ref="char:EOLhyphen"/>rable Number together; every of which, would not be perſwaded but that they perfectly ſaw it: and ſome of them, have made to<g ref="char:EOLhyphen"/>wards it with Boats; but when they have come to the place where they thought it was, they have found nothing. And many old People in the Countrey, would tell many old probable Stories, how it came firſt to be Inchanted. I confeſs there were
+(in thoſe dayes) two things made me a little to wonder:</p>
+            <p n="1">1. How it came to be inſerted into many of our both Ancient and Modern Maps, (as you, or any Man may find it is) by the name of <hi>O-Brazile.</hi>
+            </p>
+            <p n="2">2. The other is, What moved your Couſin, (that, you know, dyed but within theſe four or five years at <hi>Glaſs-lough</hi>) who was a wiſe Man, and a great Schollar, to put himſelf to the charges and trouble,<note place="margin">There is nothing more certain, than that a Patent was taken out for it in the late King's dayes.</note> (in the late Kings time) to take out a Pa<g ref="char:EOLhyphen"/>tent for it, whenſoever it ſhould be gained: Cer<g ref="char:EOLhyphen"/>tainly he, and thoſe that counſelled him to it, lookt upon it, as ſome Inchanted
+(if any ſuch thing there be) Kingdom or Iſland, that, in time, might be reco<g ref="char:EOLhyphen"/>vered. And ſince the Happy Reſtauration of His Majeſty that now Reigns, many Reports have been, that it hath been Diſ-inchanted, or Taken. Yea, in the time of the Sitting of the laſt Parliament in <hi>Dublin,</hi>
+(in the year 1663.) one coming out of <hi>Ulſter,</hi> aſſured the Houſe of Commons (whereof he was a Mem<g ref="char:EOLhyphen"/>ber) That the Inchantment was broken, and it gained: but it prov<g ref="char:EOLhyphen"/>ed not ſo. And about two years after, a certain Quaker pretended that he had a Revelation from Heaven, that he was the Man or<g ref="char:EOLhyphen"/>dained to take it, with a new ſhip built by his Inſpiration, <hi>&amp;c.</hi> And in order thereunto, he built a Veſſel. But what became of him, or his Enterprize, I never heard; it ſeems the full time was not then come. I aſſure you (dear Couſin) I was not then ſo un<g ref="char:EOLhyphen"/>willing to believe it, as now I am certain of it, from very good hands. But whether (in the Original) it hath been a Trick of <hi>Rome,</hi> one of the Works and Myſteries of <hi>Babylon,</hi> I cannot ſay, neither dare I diſpute: But this I am ſure of, That the Time, or Inchantment, (or what you pleaſe to call it) is now out, and the Iſland fully diſ<g ref="char:EOLhyphen"/>covered, or taken. And the manner, briefly, thus:</p>
+            <p>
+               <pb n="5" facs="tcp:175903:3"/>
+               <!-- PDF PAGE 119 -->There is one Captain <hi>John Nisbet,</hi> who lived formerly at <hi>Liſ<g ref="char:EOLhyphen"/>neskey</hi> in the County of <hi>Fermanagh;</hi> this man left <hi>Liſneskey</hi> ſeven or eight years ſince, and came to live at <hi>Killebegs</hi> in the Barony of <hi>Boylagh</hi> and <hi>Bannagh,</hi> in the County of <hi>Dunnegall,</hi> in <hi>Ulſter,</hi> (a Corporation you know right well.) This Man, Captain <hi>Nisbet,</hi> ſince he came to <hi>Killebegs,</hi> hath fraught out ſeveral Veſſels to <hi>France</hi> and <hi>Holland,</hi> &amp;c. with ſuch Merchandize as that Countrey afforded. And in <hi>September</hi> laſt, he fraught out a Veſſel of about 70 Tuns, laden with Butter, Tallow, and Hydes, for <hi>France,</hi> which was to bring back French Wines. Which Veſſel being returning, and near the Coaſts of <hi>Ireland</hi> (as they thought) upon the ſecond of this inſtant <hi>March,</hi> 1674. after a moſt clear froſty Night, in the Morning about the time of Sun-riſing, of a ſudden, there fell a moſt terrible thick Miſt or Fog, upon the Sea round about them; which continued the ſpace of about three hours, and then cleared up again, very bright. But when the Miſt was vaniſht, they found themſelves upon a certain Coaſt, cloſs by the Shore; and of a ſudden alſo, a very high Wind, driving them ſtill nearer to the Land. When the Maſter, and the reſt with him (who were but eight perſons in all, <hi>viz. James mac Donnel</hi> the Maſter, <hi>Alexander Johnſon</hi> Skipper, <hi>James Roſs</hi> Carpenter, and five Mariners) ſaw themſelves ſo near an unknown Shore, and could not imagine what place it ſhould be; for though they knew moſt of the Shores of <hi>Ireland</hi> and <hi>Scotland,</hi> yet they could not poſſibly give any gueſs where they then were. Finding themſelves therefore ſo near Land, and ſome little Rocks not far off them, the Maſter gave orders to ſound what Water they had; and finding it not three Fathoms, they thought it was the beſt courſe to ſtrike Sail, and drop an Anchor, (which accordingly they did) until they might inform themſelves where they were.</p>
+            <p>And having caſt Anchor, they reſolved to ſet four of their eight Men aſhore, to ſee if they could learn where they were; and how to get off: which, after they had taken down their Boat, they did. The Perſons that were to go, were the Carpenter <hi>James Roſs,</hi> and three Mariners, who took with them Swords and Piſtols. Preſently af<g ref="char:EOLhyphen"/>ter Landing, they paſt through a little Wood, and within leſs than an <hi>Engliſh</hi> mile, in a moſt pleaſant green Valley (wherein were many 
+<pb n="6" facs="tcp:175903:4"/>
+               <!-- PDF PAGE 120 --> Cattel, Horſes and Sheep feeding) they ſaw a very ſtrong-like Caſtle appearing, unto which they repaired, and called, thinking to find ſome that might direct them where they were, and what to do: but after they had long knockt, and ſaw, nor heard any creature, (not ſo much as a Dog) anſwer, they concluded it was ſome waſte place, and therefore left it. And going farther up a moſt pleaſant green Hill, they ſaw multitudes of black Rabbets, about a mile from the Caſtle: but when they came to the height thereof, look which way they pleaſed, they could ſee neither Man, Woman, Child, nor Houſe. At laſt, having ranged 2 or 3 hours about the Countrey, and lighting of none to enquire of, they returned again to their Boat, and told their fellows aboard, what ſucceſs they had had; where<g ref="char:EOLhyphen"/>upon their fellows calling for the Boat, reſolved to come aſhore al<g ref="char:EOLhyphen"/>ſo, all but one Mariner; which they did, and dividing themſelves into two parts, one part took to the right hand ſhore, the other to the left; both parties wandring up and down, until toward 4 of the clock in the afternoon, but neither of them ſaw any people to en<g ref="char:EOLhyphen"/>quire of; but much Cattel, Dear, Rabbets, <hi>&amp;c.</hi> But afar off in the Countrey, they ſaw great Woods, into which they durſt not ven<g ref="char:EOLhyphen"/>ture: ſo that both parties returned again to their Boat. At laſt the weather being very cold, and drawing towards night, finding abun<g ref="char:EOLhyphen"/>dance of old dry Wood, in the ſide of the above-named little Wood, near unto the ſhore, they reſolved to make a great Fire, againſt a great old Oak, that was fallen down with age; and in order there unto, ſome brought Wood, and ſome others ſtruck fire: at laſt, having made a rowzing Fire, and ſitting warming themſelves, diſ<g ref="char:EOLhyphen"/>courſing, and taking Tobacco; of a ſudden they heard a moſt ter<g ref="char:EOLhyphen"/>rible, hideous noiſe, towards that place, eſpecially where they ſaw the old Caſtle, and almoſt over all the Iſland, which did ſo terrify and amaze them, that they preſently left their Fire, took their Boat, and went all aboard as faſt as they could; where they continued in a great fear all night: yet neither could, nor durſt ſtir out to Sea; be<g ref="char:EOLhyphen"/>cauſe when they ſounded again, they had not two fathoms of Wa<g ref="char:EOLhyphen"/>ter, and the wind directly againſt them.</p>
+            <p>The next morning, as ſoon as the Sun was riſen, they ſaw a very ancient grave Gentleman, and ten Men following him bare-headed 
+<pb n="7" facs="tcp:175903:4"/>
+               <!-- PDF PAGE 120 -->
+(as if his ſervants) coming towards the ſhore where the Ship lay, and being come cloſs to the Water ſide, the old Gentleman calling to the Maſter, (in the old Scot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who with the reſt ſtood upon the Deck, askt him, from w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whither they were bound? and with what they were lad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> anſwered, They came from <hi>France,</hi> were laden with <hi>French</hi> Wines, with which they were bound to <hi>Killy-beggs,</hi> in the County of <hi>Dunegall</hi> in <hi>Ireland,</hi> if it pleaſed God to give them leave; then the old Gentleman askt them, how they came thither? and whether they knew where they were? or how to get forth? The Maſter told him, that before the great Fogg fell upon them yeſterday, they thought they were near the coaſt of <hi>Ireland:</hi> but where they now were, or how to get off, he knew not in the leaſt. Then the grave Gentleman told them, if they would pleaſe to come aſhore again, they ſhould be courteouſly entertained, told where they were, well re<g ref="char:EOLhyphen"/>warded, and guided to their own coaſt. Then the Maſter askt whether they ſhould have no wrong or harm done to themſelves, nor Veſſel, if they came a ſhore? the old Man promiſed they ſhould not: where<g ref="char:EOLhyphen"/>upon, the Maſter and the reſt, ſeeing no Arms with them, reſolved, ſix of them ſhould come aſhore, well armed.</p>
+            <p>Aſſoon as they were landed, the old Gentleman embraced them one by one; telling them, they were the moſt happy ſight that Iſland had ſeen ſome hundred of years; that the Iſland was called <hi>O-Brazile;</hi> that his Anceſtors were ſometimes Princes of it; telling them alſo, that he and ſeveral other perſons of quality, by the malicious, diabolical Art of a great Negromancer, had been tyrannically ſhut up in the Caſtle they knockt at yeſterday, in which, ſeveral of their Progenitors, had ended their miſerable days; and the whole Iſland, a Receptacle of Furies, made (to Mortals) unſerviceable, and inviſible, untill now, that the curſed time was expired; which (ſaith he) continued until the laſt day of the laſt moneth, but 3 or 4 days ſince. Being asked, why none anſwe<g ref="char:EOLhyphen"/>red, in the Caſtle yeſterday, when the Mariners knockt ſo long? he an<g ref="char:EOLhyphen"/>ſwered, that though the wicked time was expired, and that now the Iſland was viſible, and any might come upon it; yet he and the reſt had neither power to anſwer any that ſpoke to them, nor free themſelves from impriſonment, until Fire was kindled upon the Iſland by ſome good Chriſtians. Being askt, whether it was now abſolutely free, and would never be inchanted again? he told them, it was now abſo<g ref="char:EOLhyphen"/>lutely 
+<pb n="8" facs="tcp:175903:5"/>
+               <!-- PDF PAGE 121 --> free; and ſhould never be troubled again: but all the powers of darkneſs, when they heard that <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, were finally departed.</p>
+            <p>After which words,<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſaid Caſtle (the chief Tower being, as <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> met them, ſeveral other grave perſons, both<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all embraced the Maſter, and the reſt, giving them many thanks; then the other two were fetcht out of the Veſſel, and all nobly Feaſted, and Richly rewarded, and ſhew<g ref="char:EOLhyphen"/>ed the Glory and Riches of the ſaid Iſland, which they ſay is above 60 miles in length, and above 30 in breadth; abounding with Horſes, Cows, Sheep, Staggs, Rabbets, but no Swine, and all ſorts of Fowls; and rich Mines of Silver and Gold, but few People, and little or no Co<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n: there have been Cities and great Towns, but all conſumed.</p>
+            <p>The Men being richly rewarded, were conducted to their Veſſel; and ſhewed the way out of the Harbor, and directed the way to their own Coaſt; and came the next day at night to <hi>Killy-beggs,</hi> where they ac<g ref="char:EOLhyphen"/>quainted the Miniſter of the Town, and many other perſons of quality in the Countrey, who gave no extraordinary credit to their words, at firſt, until the Maſter and the reſt ſhewed them many of the pieces of Gold and Silver, which were given them there, which were large, and of a moſt ancient ſtamp, ſomewhat ruſty, yet pure Gold; the Maſter al<g ref="char:EOLhyphen"/>ſo offering immediatly, to carry any Gentlemen to the ſaid Iſland, that deſired to know the further truth: Whereupon ſome Gentlemen of the Countrey, within three days after, ſent out another Veſſel and the above-named <hi>Alexander Johnſon,</hi> Skipper, and ſome of the former Ma<g ref="char:EOLhyphen"/>riners to guide her, to prove whether it were true or no; who brought them to the ſaid Iſland, where they were nobly entertained, and return<g ref="char:EOLhyphen"/>ed in ſafety, with ſeveral Gifts, which were beſtowed upon them: as al<g ref="char:EOLhyphen"/>ſo ſome further Relation of the nature of the Countrey. Since then, ſeveral Godly Miniſters and others, are gone to viſit, and diſcourſe them (but at the writing hereof, I heard nothing of their return) who, doubt<g ref="char:EOLhyphen"/>leſs, will bring a more perfect relation. Dear Couſen, you need not be afraid to relate this, for I aſſure you, beſide the general diſcourſe of the Gentlemen in the Countrey, I had it from Captain <hi>Niſbet</hi> his own mouth,
+(whoſe the Veſſel, <hi>&amp;c.</hi> was) ſince which, ſeveral Gentlemen have ſent an expreſs, with the true Relation of it, under their Hands and Seals, to ſome eminent perſons in <hi>Dublin.</hi> Thus not troubling you any further at preſent, I reſt,</p>
+            <closer>
+               <signed>Your moſt affectionate Couſen and Servant, <hi>William Hamilton.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Londonderry.</hi> 
+                  <date>
+                     <hi>March</hi> 14, 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>74.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Dear Couſen, I think your young Couſen <hi>Leſly</hi> is ſtill in <hi>London,</hi> if you can enquire him out, pray ſhew him this Relation; it may be it may concern him, becauſe his Father had a Patent for it.</p>
+               <closer>
+                  <signed>W. H.</signed>
+               </closer>
+            </postscript>
+            <pb facs="tcp:175903:5"/>
+            <!-- PDF PAGE 121 -->
+            <pb facs="tcp:175903:6"/>
+            <!-- PDF PAGE 122 -->
+            <pb facs="tcp:175903:6"/>
+            <!-- PDF PAGE 122 -->
+         </div>
+      </body>
+   </text>
+</TEI>
